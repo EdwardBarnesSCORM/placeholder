@@ -1,0 +1,9 @@
+cp.imagesJSONCacheForLocal=true;cp.imageToJSONPathMap={ 
+"dr/loading.gif": "img1.json",
+"dr/Question_1_2.png": "img1.json",
+"dr/SamsungCircle_WBT_BG_kurzerklaert.jpg": "img1.json",
+"dr/SmartShape_5.png": "img1.json",
+"dr/SmartShape_6.png": "img1.json",
+"dr/SmartShape_8.png": "img1.json",
+"dr/Text_Caption_1.png": "img1.json",
+"___":"___"};
